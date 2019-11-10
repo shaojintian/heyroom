@@ -17,22 +17,22 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/othneildrew/shaojintian/heyroom">
-    <img src="https://github.com/othneildrew/shaojintian/heyroom/static/logos/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/shaojintian/heyroom">
+    <img src="https://github.com/shaojintian/heyroom/static/logos/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">"完美的"README模板</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    一个"完美的"README模板去快速开始你的项目！
     <br />
-    <a href="https://github.com/othneildrew/shaojintian/heyroom"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/shaojintian/heyroom"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/shaojintian/heyroom">View Demo</a>
+    <a href="https://github.com/othneildrew/shaojintian/heyroom">查看Demo</a>
     ·
-    <a href="https://github.com/othneildrew/shaojintian/heyroom/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/shaojintian/heyroom/issues">报告Bug</a>
     ·
-    <a href="https://github.com/othneildrew/shaojintian/heyroom/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/shaojintian/heyroom/issues">提出新特性</a>
   </p>
 
 </p>
