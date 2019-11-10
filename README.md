@@ -7,6 +7,20 @@
 ![](https://img.shields.io/github/issues/shaojintian/heyroom.svg)
 
  本篇README.md面向开发者
+ 
+## 目录
+
+- [上手指南](#上手指南)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ### 上手指南
 
@@ -14,9 +28,8 @@
 
 ###### **开发前的配置要求**
 
-1. Ubutu 16.04 LTS
-2. Bochs 2.6.8 
-3. g++
+1. Django 2.2.7
+2. Python 3.7
 
 ###### **安装步骤**
 
@@ -24,17 +37,13 @@
 
 ### 文件目录说明
 
-BlueBlood-OS-v0.1为主项目文件
-
-ARCHJITECTURE.md 为架构文件
-
-CONTRIBUTING.md为贡献者
+//filetree
 
 
 
 ### 开发的架构 
 
-请阅读**ARCHITECTURE.md** 查阅为该项目的架构。
+请阅读[ARCHITECTURE.md](https://github.com/shaojintian/heyroom/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
 
 ### 部署
 
@@ -42,7 +51,7 @@ CONTRIBUTING.md为贡献者
 
 ### 使用到的框架
 
-暂无
+Django
 
 ### 贡献者
 
@@ -56,17 +65,16 @@ CONTRIBUTING.md为贡献者
 
 ### 作者
 
-邵靳天@蓝杰
+邵靳天@铭丰科技
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 **LICENSE.md**
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/heyroom/blob/master/LICENSE.txt)
 
 ### 鸣谢
 
- 该项目参考了《一个64位操作系统的设计与实现》
- 感谢蓝杰小伙伴和其他小伙伴的支持和陪伴
+ 感谢铭丰科技小伙伴和其他小伙伴的支持和陪伴
 
 
 
