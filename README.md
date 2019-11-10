@@ -14,14 +14,12 @@
   - [开发前的配置要求](#开发前的配置要求)
   - [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [开发的架构](#开发的架构)
+- [部署](#部署)
+- [使用到的框架](#使用到的框架)
+- [版本控制](#版本控制)
+- [作者及其联系](#作者及其联系)
+- [鸣谢](#鸣谢)
 
 ### 上手指南
 
@@ -67,6 +65,9 @@ Django
 ### 作者
 
 邵靳天@铭丰科技
+
+知乎:笃行er   qq:1075803623     
+
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
