@@ -12,6 +12,7 @@
 
 - [上手指南](#上手指南)
   - [开发前的配置要求](#开发前的配置要求)
+  - [安装步骤](#安装步骤)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
