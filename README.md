@@ -11,7 +11,7 @@
 ## 目录
 
 - [上手指南](#上手指南)
-  - [Built With](#built-with)
+  - [开发前的配置要求](#开发前的配置要求)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
