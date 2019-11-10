@@ -13,6 +13,30 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- PROJECT LOGO -->
+<br />
+
+<p align="center">
+  <a href="https://github.com/othneildrew/shaojintian/heyroom">
+    <img src="https://github.com/othneildrew/shaojintian/heyroom/static/logos/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/shaojintian/heyroom"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/shaojintian/heyroom">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/shaojintian/heyroom/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/shaojintian/heyroom/issues">Request Feature</a>
+  </p>
+
+</p>
+
 
  本篇README.md面向开发者
  
@@ -25,6 +49,8 @@
 - [开发的架构](#开发的架构)
 - [部署](#部署)
 - [使用到的框架](#使用到的框架)
+- [贡献者](#贡献者)
+  - [如何参与开源项目](#如何参与开源项目)
 - [版本控制](#版本控制)
 - [作者及其联系](#作者及其联系)
 - [鸣谢](#鸣谢)
@@ -40,11 +66,37 @@
 
 ###### **安装步骤**
 
-暂无
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+
+```sh
+git clone https://github.com/shaojintian/heyroom.git
+```
 
 ### 文件目录说明
+eg:
 
-//filetree
+```
+filetree 
+├── ARCHITECTURE.md
+├── LICENSE.txt
+├── README.md
+├── /account/
+├── /bbs/
+├── /docs/
+│  ├── /rules/
+│  │  ├── backend.txt
+│  │  └── frontend.txt
+├── manage.py
+├── /oa/
+├── /static/
+├── /templates/
+├── useless.md
+└── /util/
+
+```
+
+
 
 
 
@@ -58,11 +110,24 @@
 
 ### 使用到的框架
 
-Django
+- [xxxxxxx](https://getbootstrap.com)
+- [xxxxxxx](https://jquery.com)
+- [xxxxxxx](https://laravel.com)
 
 ### 贡献者
 
 请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+
+#### 如何参与开源项目
+
+贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
+
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
 
@@ -74,7 +139,7 @@ Django
 
 邵靳天@铭丰科技
 
-知乎:笃行er  &ensp; &ensp; qq:1075803623     
+知乎:笃行er  &ensp; qq:1075803623     
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
@@ -84,7 +149,13 @@ Django
 
 ### 鸣谢
 
- 感谢铭丰科技小伙伴和其他小伙伴的支持和陪伴
+ 感谢铭丰科技小伙伴和其他项目的支持和陪伴
+ - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Img Shields](https://shields.io)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com)
+- [Animate.css](https://daneden.github.io/animate.css)
+- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
 
 <!-- links -->
 [your-project-path]:shaojintian/heyroom
