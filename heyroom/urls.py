@@ -20,4 +20,5 @@ from heyroom import views
 urlpatterns = [
     path('xadmin/', xadmin.site.urls),
     path('',views.show_index),
+    path('double11/',views.get_double11)
 ]
