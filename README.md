@@ -153,6 +153,7 @@ git push origin xxx-dev
 ```bash
 切换到master分支
 GitHub Desktop -> Branch -> Merge into Current Branch -> 选择xxx-dev
+
 ```
 
 
