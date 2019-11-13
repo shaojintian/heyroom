@@ -51,6 +51,7 @@
 - [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
   - [如何参与项目](#如何参与项目)
+  - [如何提交自己的代码到master](#如何提交自己的代码到master)
 - [版本控制](#版本控制)
 - [作者及其联系](#作者及其联系)
 - [鸣谢](#鸣谢)
@@ -136,6 +137,19 @@ filetree
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin xxx-dev`)
 5. Open a Pull Request
+
+#### 如何提交自己的代码到master
+
+1. 按上述创建好自己的branch
+2. git update from master 
+3. 修改你的branch的代码
+4. 确保无误后，提交到你的分支: 
+```bash
+git commit -m "..." 
+git push origin xxx-dev
+```
+
+5. 更新你的分支后，更新你的branch到master:
 
 
 
