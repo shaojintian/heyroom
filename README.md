@@ -50,7 +50,7 @@
 - [部署](#部署)
 - [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
+  - [如何参与项目](#如何参与项目)
 - [版本控制](#版本控制)
 - [作者及其联系](#作者及其联系)
 - [鸣谢](#鸣谢)
@@ -63,14 +63,20 @@
 
 1. Django 2.2.7
 2. Python 3.7
+3. Mysql 8.0.13
+4. MongoDB 4.0.3
 
 ###### **安装步骤**
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
 
 ```sh
 git clone https://github.com/shaojintian/heyroom.git
+```
+2. Run the project
+```bash
+ python manage.py runserver localhost:8080
 ```
 
 ### 文件目录说明
@@ -106,27 +112,29 @@ filetree
 
 ### 部署
 
-暂无
+1. 腾讯云服务器172.81.235.217
+2. 域名www.liuxueheyroom
+
+
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- Django
+- xadmin
+- restful API
 
 ### 贡献者
 
 请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
 
-#### 如何参与开源项目
+#### 如何参与项目
 
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
 
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b xxx-dev`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Push to the Branch (`git push origin xxx-dev`)
 5. Open a Pull Request
 
 
