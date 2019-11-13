@@ -149,11 +149,11 @@ git commit -m "..."
 git push origin xxx-dev
 ```
 
-5. 更新你的分支后，更新你的branch到master:
+5 . 更新你的分支后，更新你的branch到master:
 ```bash
 切换到master分支
 GitHub Desktop -> Branch -> Merge into Current Branch -> 选择xxx-dev
-
+git push origin master
 ```
 
 
