@@ -47,7 +47,6 @@ INSTALLED_APPS = [
     'crispy_forms',
     'account',
     'bbs',
-    'oa',
     'heyroom',
 ]
 

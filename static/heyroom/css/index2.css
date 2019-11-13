@@ -3366,7 +3366,7 @@ a:hover {
 	height: 64px;
 	overflow: hidden;
 	display: block;
-	background: url(./pics/main_logo.jpeg) no-repeat;
+	background: url(/static/pics/main_logo.jpeg) no-repeat;
 	text-indent: -9999px;
 	background-size: cover;
 	margin-top: 8px
